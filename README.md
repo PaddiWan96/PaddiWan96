@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning about argumentation mining, explainable AI, Cooperative Inverse Reinforcement Learning, Sparse Autoencoders, Knowledge Graphs, Retreival Augmented Generation, Multi-Headed Latent Attention, Graph Neural Networks (and Graph Attention Networks).
 
 - 📫 How to reach me:  
-                        - You can reach me on Instagram at: https://www.instagram.com/paddi_wan
-                        - You can reach me on Linkedin at: https://www.linkedin.com/in/paddylewis96/
+- You can reach me on Instagram at: https://www.instagram.com/paddi_wan
+- You can reach me on Linkedin at: https://www.linkedin.com/in/paddylewis96/
 
 - 😄 Pronouns: he/him
 
